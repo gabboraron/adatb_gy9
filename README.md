@@ -39,11 +39,8 @@ end;
 ````
 
 > Írj PL/SQL név nélküli blokkot, ami a képernyőre kiírja a Dolgozó tábla azon dolgozóinak nevét, akik foglalkozása megegyezik azzal, amit a felhasználó INPUTként megadott, a foglalkozását, és azt hogy: 
-
 > 'csoro' ha a fizetés  < 900	
-
 > a fizetést, ha az >=900 de <1200	
-
 > 'gazdag' ha az >=4000
 
 ````PLSQL
